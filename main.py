@@ -13,3 +13,4 @@ if word in meme_dict.keys():
     print (meme_dict[word])
 else:
     print("kata tidak ditemukan")
+ print (word)
